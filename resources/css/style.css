@@ -1,0 +1,39 @@
+* {font-family:
+  Verdana; sans-serif;
+}
+
+.headline {
+font-weight: bold;
+font-size: 50px;
+text-color: white;
+text-align: center;
+}
+
+.guide {
+  font-weight: bold;
+  font-size: 42px;
+}
+  .points {
+    font-size: 21px;
+    color: gray;
+  }
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+video {
+    object-fit: contain; height: 700px;
+}
+.download {
+    color: Aquamarine;
+    font-size: 16px;
+}
+.footer {
+  text-align:right;
+  color: gray;
+}
